@@ -8,8 +8,6 @@ type Props = {
 
 function MovieCard( { movie } : Props) {
 
-   
-
     return (
 
         <div>
